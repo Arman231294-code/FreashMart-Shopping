@@ -1,0 +1,72 @@
+
+.banner-indicator.active {
+    background-color: white;
+}
+
+#cart-sidebar {
+    overflow-y: auto;
+}
+
+.reviews-wrapper {
+    position: relative;
+    width: 100%;
+    overflow-x: hidden; 
+}
+
+#reviews-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    
+}
+
+
+.review-card {
+    flex: 0 0 100%;
+    box-sizing: border-box; 
+}
+
+@media (min-width: 768px) {
+    .review-card {
+        flex: 0 0 50%; 
+    }
+}
+
+@media (min-width: 1024px) {
+    .review-card {
+        flex: 0 0 33.333333%; 
+    }
+}
+
+.cart-item-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+.pulse {
+    animation: pulse 0.5s;
+}
+
+.review-nav-button {
+    background-color: #16a34a; 
+    color: white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.review-nav-button i {
+    font-size: 1.00rem; 
+}

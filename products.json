@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Organic Bananas (1 bunch)",
+      "price": 1.99,
+      "description": "Sweet and nutritious organic bananas. Perfect for smoothies, baking, or as a healthy snack. Approximately 5-7 bananas per bunch.",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1603833665858-e61d17a86224?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "rating": {
+        "rate": 4.8,
+        "count": 432
+      }
+    },
+    {
+      "id": 2,
+      "title": "Fresh Avocados (2 pack)",
+      "price": 2.49,
+      "description": "Creamy and delicious Hass avocados. Rich in healthy fats and perfect for guacamole, salads, or toast. Ripens within 2-3 days.",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80",
+      "rating": {
+        "rate": 4.6,
+        "count": 368
+      }
+    },
+    {
+      "id": 3,
+      "title": "Organic Baby Spinach (8 oz)",
+      "price": 3.29,
+      "description": "Fresh organic baby spinach leaves. Packed with nutrients and perfect for salads, smoothies, or cooking. Pre-washed and ready to eat.",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1010&q=80",
+      "rating": {
+        "rate": 4.7,
+        "count": 259
+      }
+    },
+    {
+      "id": 4,
+      "title": "Red Bell Peppers (3 pack)",
+      "price": 3.99,
+      "description": "Sweet and crunchy red bell peppers. Great for salads, stir-fries, or roasting. Rich in vitamin C and antioxidants.",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "rating": {
+        "rate": 4.5,
+        "count": 187
+      }
+    },
+    {
+      "id": 5,
+      "title": "Whole Grain Bread (24 oz)",
+      "price": 3.99,
+      "description": "Freshly baked whole grain bread. High in fiber and perfect for sandwiches or toast. Made with 100% whole wheat flour and no artificial preservatives.",
+      "category": "Bakery",
+      "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": {
+        "rate": 4.9,
+        "count": 412
+      }
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Croissants (4 pack)",
+      "price": 5.49,
+      "description": "Buttery, flaky croissants filled with rich Belgian chocolate. A perfect breakfast treat or dessert. Baked fresh daily.",
+      "category": "Bakery",
+      "image": "https://images.unsplash.com/photo-1623334044303-241021148842?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": {
+        "rate": 4.8,
+        "count": 325
+      }
+    },
+    {
+      "id": 7,
+      "title": "Organic Whole Milk (1 gallon)",
+      "price": 4.29,
+      "description": "Fresh organic whole milk. Sourced from grass-fed cows with no added hormones or antibiotics. Rich and creamy taste.",
+      "category": "Dairy",
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
+      "rating": {
+        "rate": 4.7,
+        "count": 298
+      }
+    },
+    {
+      "id": 8,
+      "title": "Cold Brew Coffee (32 oz)",
+      "price": 4.99,
+      "description": "Smooth and rich cold brew coffee. Less acidic than regular coffee and perfect for hot days. Made with premium arabica beans.",
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "rating": {
+        "rate": 4.6,
+        "count": 276
+      }
+    },
+    {
+      "id": 9,
+      "title": "Organic Strawberries (16 oz)",
+      "price": 4.99,
+      "description": "Sweet and juicy organic strawberries. Perfect for snacking, desserts, or smoothies. Grown without synthetic pesticides.",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1587393855524-087f83d95bc9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=760&q=80",
+      "rating": {
+        "rate": 4.9,
+        "count": 432
+      }
+    },
+    {
+      "id": 10,
+      "title": "Fresh Broccoli Crown (1 lb)",
+      "price": 2.29,
+      "description": "Fresh and crisp broccoli crowns. Packed with nutrients and perfect for stir-fries, roasting, or steaming. High in fiber and vitamin C.",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": {
+        "rate": 4.5,
+        "count": 189
+      }
+    },
+    {
+      "id": 11,
+      "title": "Artisanal Sourdough Bread (1 loaf)",
+      "price": 5.49,
+      "description": "Artisanal sourdough bread with a crispy crust and chewy interior. Made with a traditional starter and slow-fermented for 24 hours for maximum flavor.",
+      "category": "Bakery",
+      "image": "https://plus.unsplash.com/premium_photo-1733317300123-5a3827566e8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXJ0aXNhbmFsJTIwU291cmRvdWdoJTIwQnJlYWR8ZW58MHx8MHx8fDA%3D",
+      "rating": {
+        "rate": 4.8,
+        "count": 367
+      }
+    },
+    {
+      "id": 12,
+      "title": "Fresh Squeezed Orange Juice (52 oz)",
+      "price": 5.99,
+      "description": "Freshly squeezed orange juice. No added sugars or preservatives, just pure fruit goodness. Rich in vitamin C and natural antioxidants.",
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "rating": {
+        "rate": 4.7,
+        "count": 245
+      }
+    },
+    {
+      "id": 13,
+      "title": "Cage-Free Large Eggs (12 count)",
+      "price": 3.49,
+      "description": "Farm-fresh, cage-free large brown eggs. Perfect for breakfast, baking, or any recipe. From hens raised on vegetarian feed with no antibiotics.",
+      "category": "Dairy",
+      "image": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "rating": {
+        "rate": 4.8,
+        "count": 321
+      }
+    },
+    {
+      "id": 14,
+      "title": "Organic Carrots (2 lb bag)",
+      "price": 2.49,
+      "description": "Sweet and crunchy organic carrots. Great for snacking, salads, or cooking. Rich in beta-carotene and fiber.",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "rating": {
+        "rate": 4.6,
+        "count": 215
+      }
+    },
+    {
+      "id": 15,
+      "title": "Honey Crisp Apples (4 pack)",
+      "price": 3.99,
+      "description": "Sweet and crisp Honey Crisp apples. Perfect balance of sweetness and tartness. Great for snacking or baking.",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1570913149827-d2ac84ab3f9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": {
+        "rate": 4.9,
+        "count": 402
+      }
+    },
+    {
+      "id": 16,
+      "title": "Organic Quinoa (16 oz)",
+      "price": 5.99,
+      "description": "Organic white quinoa. High in protein and fiber. Perfect for salads, bowls, or as a side dish. Cooks in just 15 minutes.",
+      "category": "Grains",
+      "image": "https://plus.unsplash.com/premium_photo-1726072387213-5bf4f924c219?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8T3JnYW5pYyUyMFF1aW5vYXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": {
+        "rate": 4.7,
+        "count": 189
+      }
+    },
+    {
+      "id": 17,
+      "title": "Extra Virgin Olive Oil (16.9 oz)",
+      "price": 9.99,
+      "description": "Premium cold-pressed extra virgin olive oil. Perfect for cooking, dressings, or dipping. Rich, fruity flavor with a peppery finish.",
+      "category": "Pantry",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1061&q=80",
+      "rating": {
+        "rate": 4.8,
+        "count": 267
+      }
+    },
+    {
+      "id": 18,
+      "title": "Organic Baby Carrots (1 lb)",
+      "price": 1.99,
+      "description": "Sweet and crunchy organic baby carrots. Pre-washed and ready to eat. Perfect for snacking or lunch boxes.",
+      "category": "Vegetables",
+      "image": "https://images.unsplash.com/photo-1447175008436-054170c2e979?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1599&q=80",
+      "rating": {
+        "rate": 4.5,
+        "count": 178
+      }
+    },
+    {
+      "id": 19,
+      "title": "Grass-Fed Ground Beef (1 lb)",
+      "price": 7.99,
+      "description": "Premium grass-fed ground beef. 85% lean, 15% fat. Perfect for burgers, meatballs, or any ground beef recipe. No antibiotics or hormones.",
+      "category": "Meat",
+      "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": {
+        "rate": 4.7,
+        "count": 312
+      }
+    },
+    {
+      "id": 20,
+      "title": "Wild Caught Salmon Fillets (1 lb)",
+      "price": 12.99,
+      "description": "Fresh wild-caught Atlantic salmon fillets. Rich in omega-3 fatty acids. Perfect for grilling, baking, or pan-searing.",
+      "category": "Seafood",
+      "image": "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "rating": {
+        "rate": 4.8,
+        "count": 245
+      }
+    },
+    {
+      "id": 21,
+      "title": "Organic Greek Yogurt (32 oz)",
+      "price": 4.99,
+      "description": "Creamy organic Greek yogurt. High in protein and probiotics. Perfect for breakfast, smoothies, or as a sour cream substitute.",
+      "category": "Dairy",
+      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "rating": {
+        "rate": 4.6,
+        "count": 289
+      }
+    },
+    {
+      "id": 22,
+      "title": "Organic Blueberries (6 oz)",
+      "price": 3.99,
+      "description": "Sweet and juicy organic blueberries. Packed with antioxidants. Perfect for snacking, baking, or adding to yogurt and cereal.",
+      "category": "Fruits",
+      "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "rating": {
+        "rate": 4.9,
+        "count": 356
+      }
+    },
+    {
+      "id": 23,
+      "title": "Organic Brown Rice (32 oz)",
+      "price": 4.49,
+      "description": "Organic long-grain brown rice. High in fiber and nutrients. Perfect as a side dish or base for bowls and stir-fries.",
+      "category": "Grains",
+      "image": "https://plus.unsplash.com/premium_photo-1671130295823-78f170465794?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QnJvd24lMjByaWNlfGVufDB8fDB8fHww",
+      "rating": {
+        "rate": 4.5,
+        "count": 198
+      }
+    },
+    {
+      "id": 24,
+      "title": "Organic Maple Syrup (8 oz)",
+      "price": 8.99,
+      "description": "Pure organic maple syrup. Harvested from maple trees in Vermont. Perfect for pancakes, waffles, or as a natural sweetener.",
+      "category": "Pantry",
+      "image": "https://i.mctimg.com/cdn-cgi/image/w=400,h=400,fit=pad/https://i.mctimg.com/file/49b9aeaf57e1c4bed626db71eeee8db6906cb9a1/750b3060ad4e7f9c2f44319134de733beb39c20416af8ec4384f60361f35ca65",
+      "rating": {
+        "rate": 4.8,
+        "count": 276
+      }
+    }
+  ]
+}
